@@ -1,2 +1,0 @@
-Name     -----------> Tinku
-Password -----------> Rinku
